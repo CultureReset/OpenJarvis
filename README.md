@@ -1,3 +1,14 @@
+> **CultureReset fork of [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis).** Personal AI, On Personal Devices.
+>
+> - **Why it is here:** A public fork of OpenJarvis, the assistant backend NODE uses as its chat front end.
+> - **Does anything run from it:** No. NODE runs a separate, patched copy.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/open-jarvis/OpenJarvis).
+>
+> The upstream README follows unchanged.
+
+---
+
 <div align="center">
   <img alt="OpenJarvis" src="assets/OpenJarvis_Horizontal_Logo.png" width="400">
 
